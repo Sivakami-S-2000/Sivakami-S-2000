@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Sivakami-S-2000
+- 👀 I’m interested in Software development
+- 🌱 I’m currently learning python
